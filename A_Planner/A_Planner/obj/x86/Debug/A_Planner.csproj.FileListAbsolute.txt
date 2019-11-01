@@ -1,0 +1,5 @@
+S:\VBS Projects\C#\Projects\A_Planner\A_Planner\bin\Debug\A_Planner.exe
+S:\VBS Projects\C#\Projects\A_Planner\A_Planner\bin\Debug\A_Planner.pdb
+S:\VBS Projects\C#\Projects\A_Planner\A_Planner\obj\x86\Debug\A_Planner.exe
+S:\VBS Projects\C#\Projects\A_Planner\A_Planner\obj\x86\Debug\A_Planner.pdb
+S:\VBS Projects\C#\Projects\A_Planner\A_Planner\obj\x86\Debug\A_Planner.csprojResolveAssemblyReference.cache
